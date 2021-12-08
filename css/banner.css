@@ -14,7 +14,18 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
-    
+    animation-duration: 2s;
+    animation-name: aparecer;
+    animation-iteration-count: initial;
+}
+
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 #banner h2 {

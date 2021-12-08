@@ -48,6 +48,7 @@ footer .conteiner {
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 25px;
+    background-image: linear-gradient(to bottom, white, darkblue);
 }
 
 .copy {
