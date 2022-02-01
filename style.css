@@ -2,10 +2,7 @@
 @import url(menu.css);
 @import url(banner.css);
 @import url(clientes.css);
-<<<<<<< HEAD
-=======
 @import url(contacto.css);
->>>>>>> a3b414a (probandoGit2)
 
 * {
     margin: 0;
@@ -55,10 +52,6 @@ footer .conteiner {
     background-image: linear-gradient(to bottom, white, darkblue);
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a3b414a (probandoGit2)
 .copy {
     font-size: 20px;
 }
